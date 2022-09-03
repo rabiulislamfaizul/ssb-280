@@ -1,0 +1,49 @@
+.rabi{
+  background:red;
+  color:white;
+  text-align:center;
+  border:1px solid black;
+  border-radius:100%;
+}
+.rabi1{
+  border:5px solid red;
+  border-radius:10px;
+  text-align:center;
+  background:#ddd;
+  color:black;
+}
+body{
+  background:#75C35D;
+}
+.loginbox{
+  background:white;
+  width:300px ;
+  padding:20px ;
+  margin:auto;
+  margin-top:100px;
+}
+.loginbox input{
+  width:93%;
+  display:block;
+  padding:10px;
+  background:#f2f2f2;
+  margin-bottom:20px;
+  outline:none;
+  border:none;
+  font-size:16px;
+}
+.loginbt{
+  background:green !important;
+  color:white ;
+  width:100%!important;
+}
+.registerlink{
+  text-align:center ;
+}
+.registerlink span{
+  color:#e2e2e9;
+}
+.registerlink a{
+  color:#35BC5E;
+  text-decoration:none;
+}
